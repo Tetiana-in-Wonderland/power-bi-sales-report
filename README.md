@@ -7,4 +7,5 @@ Report includes features like:
     <li>practicing DAX, including calculated table names;</li>
     <li>RLS (row level security, allowing to restrict data access for given users by applying filters through DAX);</li>
     <li>selections and bookmarks;</li>
+    <li>decomposition tree AI tool.</li>
 </ul>
